@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1053044695730",
+    "firebase_url": "https://laudo-eletronico.firebaseio.com",
+    "project_id": "laudo-eletronico",
+    "storage_bucket": "laudo-eletronico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053044695730:android:7c427de598af5780",
+        "android_client_info": {
+          "package_name": "br.com.sazso.laudoeletronico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053044695730-52qa2fvvggqsehh1n24dla2l9catg4ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cSYzl2GYFkae--aPV3szUveo7BBUllY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

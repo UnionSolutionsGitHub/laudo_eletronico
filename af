@@ -1,0 +1,36 @@
+* [33mf9f18bc[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m Adicionado Chassi e numero do motor a identificação | Flash na camera | Melhoria algoritimo de bloqueio de camera
+* [33m279ef4f[m Timeout na camera, menu camera e campos de identificação
+* [33mcf41cc5[m beta 0.1.6
+* [33m039e44e[m Adiciona tradução inglês
+* [33m46467d7[m Fotos adicionais conforme configuração
+* [33m4a8936e[m Melhoria compressão|Camera frontal
+* [33m3673961[m adicionado compressão nas fotos
+* [33mf181456[m versão 0.1.2
+* [33m60404c9[m melhoria upload de fotos
+* [33mc8b4cd6[m liberado beta para google
+* [33mbaeceac[m liberado beta
+* [33mc34e01b[m Envio de fotos no ato, sempre que houver conexão com a internet e deleção de fotos após envio do laudo
+* [33mb0b2ff2[m Remoção de regra que desabilita botão de seguir apra próxima etapa, nos laudos
+* [33m405cfa4[m Rotacionamento de marca d'agua no laudo de fotos
+* [33m0ee562e[m Adicionado identificação de campos obrigatórios, aos laudos
+* [33m6784dea[m Finalizado - Carrossel fotos adicionais
+* [33m62a2f44[m Laudo checklist -> Não aplicável para todos os tipos de laudos e listagem para todos os botões
+* [33mbd41484[m Adicionado botão de escontar marca dagua em fotos e botão para adicionar fotos adicionais, nas fotos
+* [33m0258a19[m liberado para testes
+* [33m7d5b29c[m preparação para beta teste
+* [33ma073b06[m adicionado chave para geração do apk/primeira versão de teste
+* [33ma8f0692[m finalizado laudo sumario
+* [33m36a3afd[m finalizado laudo estrutural
+* [33m75b27a0[m encontrado problema em abrir muitas telas
+* [33m749fc65[m finalizado laudo de pintura
+* [33md119bea[m iniciado criação de tela de laudo descritivo (pintura e estrutura)
+* [33m2d0351f[m acerto no update do framework
+* [33m206fe31[m finalizado laudo fotografico
+* [33md486554[m listagem de configurações para iniciar novo laudo. Finalizado
+* [33m5c3e2a8[m melhoria na performance na inserção de uma lista de itens
+* [33m16713e2[m finalizada tela inicial para novo laudo
+* [33m33e2555[m finalizado tela de login
+* [33m8cb89d8[m criação framework banco de dados
+* [33ma2dc35e[m finalizado layout camera
+* [33med22bf0[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m commit inicial
+* [33md564e60[m .gitignore created online with Bitbucket
